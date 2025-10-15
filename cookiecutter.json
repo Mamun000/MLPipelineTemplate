@@ -1,5 +1,3 @@
 {
-  "project_name": "ml_pipeline_project",
-  "author_name": "Mamun Islam",
-  "description": "A reusable ML pipeline structure with data ingestion, transformation, and training"
+  "project_name": "ml_pipeline_project"
 }
